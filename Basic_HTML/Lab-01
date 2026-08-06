@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Classic Cafe-Style Iced Coffee</title>
+    <meta charset="UTF-8">
+  </head>
+  <body>
+    <h1>Classic Cafe-Style Iced Coffee</h1>
+    <p>Quick and easy recipe to make a classic cafe-style iced coffee:</p>
+    <h2>Ingredients</h2>
+      <ul>
+        <li>Instant Coffee</li>
+        <li>Hot water</li>
+        <li>Sweetener</li>
+        <li>Milk</li>
+        <li>Ice cubes</li>
+      </ul>
+    <h2>Instructions</h2>
+      <ol>
+        <li>Add 2 tsp of instant coffee and 1-2 tsp of sweetener into a glass.</li>
+        <li>Add 2 tbsp of hot water.</li>
+        <li>Stir thoroughly to dissolve the instant coffee and sweetener completely.</li>
+        <li>Fill a glass with ice cubes.</li>
+        <li>Pour the coffee mixture over the ice.</li>
+        <li>Add the milk.</li>
+        <li>Stir well and enjoy your very own classic cafe-style iced coffee.</li>
+      </ol>
+    <img src="https://www.shutterstock.com/image-photo/ice-coffee-tall-glass-cream-260nw-2333005681.jpg" alt="Classic Cafe-Style Iced Coffee">
+  </body>
+</html>
